@@ -1,0 +1,5 @@
+{
+  "main": "app-with-list-view.js",
+  "name": "nativescript-vue-webpack-template",
+  "version": "0.1.0"
+}
